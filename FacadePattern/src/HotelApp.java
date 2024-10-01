@@ -9,6 +9,7 @@ public class HotelApp {
         System.out.println("""
 
                 Welcome to CFV Hotel!
+                This hotel is managed by CABANILLA, DAN LLOYD A. | 3BSCS-2 | Facade Pattern
                 Please proceed to check-in through our Front Desk.
                 Enjoy your stay...
 
